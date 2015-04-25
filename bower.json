@@ -1,0 +1,26 @@
+{
+  "name": "orbweaver-resource",
+  "version": "0.102.0",
+  "homepage": "https://github.com/aranasoft/bower-orbweaver-resource",
+  "authors": [
+    "Arana Software <info@aranasoft.com>"
+  ],
+  "description": "Orbweaver module for wrapping ngResource, interacting with RESTful data sources",
+  "main": "orbweaver-resource.js",
+  "keywords": [
+    "orbweaver",
+    "angular",
+    "rest"
+  ],
+  "dependencies": {
+    "angular-resource": ">=1.2.7"
+  },
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
