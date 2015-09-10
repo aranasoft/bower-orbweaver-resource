@@ -1,6 +1,6 @@
 {
   "name": "orbweaver-resource",
-  "version": "0.102.0",
+  "version": "0.102.1",
   "description": "Orbweaver module for wrapping ngResource, interacting with RESTful data sources",
   "main": "index.js",
   "scripts": {
