@@ -1,6 +1,6 @@
 {
   "name": "orbweaver-resource",
-  "version": "0.102.1",
+  "version": "1.0.0-beta.1",
   "description": "Orbweaver module for wrapping ngResource, interacting with RESTful data sources",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,8 @@
   "author": "Arana Software <info@aranasoft.com>",
   "contibutors": [
     "Dennis Burton <dburton@aranasoft.com>",
-    "Jay Harris <jay@aranasoft.com>"
+    "Jay Harris <jay@aranasoft.com>",
+    "Jeff Strauss <jeff@aranasoft.com>"
   ],
   "license": "BSD-3-Clause",
   "bugs": {
